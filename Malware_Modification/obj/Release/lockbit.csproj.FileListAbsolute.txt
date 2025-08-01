@@ -1,0 +1,11 @@
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\obj\Release\lockbit.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\obj\Release\LockBIT.link2.resources
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\obj\Release\LockBIT.sethc.exe.Properties.Resources.resources
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\obj\Release\lockbit.csproj.GenerateResource.cache
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\obj\Release\lockbit.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\bin\Release\NeonGPT.exe.config
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\bin\Release\NeonGPT.exe
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\bin\Release\NeonGPT.pdb
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\obj\Release\NeonGPT.exe
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\obj\Release\NeonGPT.pdb
+C:\Users\Desktop\Desktop\dont_scan\dotpeek\lockbit\obj\Release\NeonGPT.exe.config
